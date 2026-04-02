@@ -1,4 +1,4 @@
-import "reflect-metadata";
+import "../reflect-setup";
 import { INJECT_METADATA } from "../common/constants";
 
 export interface ClassProvider {
